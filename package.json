@@ -1,0 +1,28 @@
+{
+  "name": "ajsregexp",
+  "version": "1.0.0",
+  "description": "REG EXP JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/OlegPustovalov/ajsregexp"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Oleg",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "core-js": "^3.31.0"
+  }
+}
